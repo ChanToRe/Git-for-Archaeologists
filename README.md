@@ -1,4 +1,4 @@
-# Git-for-Archaeologists
+# Git-for-Archaeologists / 고고학자를 위한 깃
 
 * 본 레포지토리는 고고학 연구자에게 Git과 Github를 소개하고자 작성되었습니다.
 * Git과 Github를 활용하여 개인연구, 공동연구를 관리하는 방법을 살펴봅니다.
