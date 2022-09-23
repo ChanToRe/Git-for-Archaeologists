@@ -6,12 +6,12 @@
 
 ## 목차
 
-[1. Git?, Github?](# 1. Git?, Github?) <br>
-[2. Teminal Command](# 2. Teminal Command) <br>
-[3. Git 기본용어](# 3. Git 기본용어) <br>
-[4. Git 기본 명령어](# 4. Git 기본 명령어) <br>
-[5. Git을 활용한 개인연구 관리](# 3. Git를 활용한 개인연구 관리) <br>
-[6. Git을 활용한 협업](# 4. Github를 활용한 협업)
+[1. Git?, Github?](1. Git?, Github?) <br>
+[2. Teminal Command](2. Teminal Command) <br>
+[3. Git 기본용어](3. Git 기본용어) <br>
+[4. Git 기본 명령어](4. Git 기본 명령어) <br>
+[5. Git을 활용한 개인연구 관리](3. Git를 활용한 개인연구 관리) <br>
+[6. Git을 활용한 협업](4. Github를 활용한 협업)
 
 ## 1. Git?, Github?
 
@@ -111,7 +111,7 @@ rm -rf 삭제할-파일-혹은-폴더
 Ex) rm -rf trashfile.txt
 ```
 
-### 10) vi / 디렉토리 생성
+### 10) vi / vi 에디터로 열기
 ```bash
 vi 파일명
 
