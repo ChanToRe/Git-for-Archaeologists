@@ -6,12 +6,12 @@
 
 ## 목차
 
-[1. Git?, Github?](1. Git?, Github?) <br>
-[2. Teminal Command](2. Teminal Command) <br>
-[3. Git 기본용어](3. Git 기본용어) <br>
-[4. Git 기본 명령어](4. Git 기본 명령어) <br>
-[5. Git을 활용한 개인연구 관리](3. Git를 활용한 개인연구 관리) <br>
-[6. Git을 활용한 협업](4. Github를 활용한 협업)
+[Git?, Github?](##-1.-Git?,-Github?) <br>
+[기본 터미널 명령어](##-2.-Teminal-Command) <br>
+[Git 기본용어](##-3.-Git-기본용어) <br>
+[Git 기본 명령어](##-4.-Git-기본-명령어) <br>
+[Git을 활용한 개인연구 관리](##-5.-Git를-활용한-개인연구-관리) <br>
+[Git을 활용한 협업](##-6.-Git을-활용한-협업)
 
 ## 1. Git?, Github?
 
@@ -126,14 +126,23 @@ vi 에디터로 파일을 편집할 수 있게 해주는 명령어.
 **1. Repository**<br>
 	&nbsp;**- Remote Repository** : 원격 서버에 위치하는 저장소(일종의 중앙 저장소)<br>
 	&nbsp;**- Local Repository** : 개발자가 작업하는 개인 PC의 저장소<br>
+	
 **2. Clone** : 원격 저장소의 내용을 로컬 저장소로 복사하는 행위<br>
+
 **3. Branch** : 독립적인 작업을 위한 분기점, 작업을 할 때는 Branch를 생성하여 작업한다. 작업이 끝난 경우, 이를 병합하고 사용한 Branch를 삭제하여 마무리한다. Branch를 통해 협업시 충돌을 방지할 수 있으며, 작업 흐름을 한눈에 파악할 수 있다.<br>
+
 **4. Head** : 현재 작업 중인 Branch <br>
+
 **5. Staging Area** : 임시 저장 영역으로 Git에 의해 관리 및 추적이 이루어짐, 커밋될 것들이 계류하는 장소<br>
+
 **6. Working Directory** : 작업 중인 디렉토리, Git에 의해 관리되지만 추적되지는 않음<br>
+
 **7. Commit** : 변경된 작업을 확정하고 로컬 저장소에 저장하는 작업, 작업 내용에 대한 메세지(Commit Message)를 작성해줘야하며 메세지의 형식은 통일시켜 정해주어야한다.<br>
+
 **8. Merge** : 다른 Branch의 변경 내용을 현재 Branch에 합치는 작업<br>
+
 **9. Push** : 변경된 로컬 저장소의 내용(Commit)을 중앙 저장소에 반영시키는 작업<br>
+
 **10. Pull** : 변경된 중앙 저장소의 내용을 로컬 저장소에 반영시키는 작업
 
 ## 4. Git 기본 명령어
