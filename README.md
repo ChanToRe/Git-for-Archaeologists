@@ -273,7 +273,7 @@ Ex) git merge develop
 9. ~~~ 작업 ~~~
 10. git add 파일명 or git add .    # Staging Area에 등록
 11. git commit -m "커밋-메세지-내용"    # Staging Area -> Local Repository
-12. git switch master    # master branch로 이동
+12. git switch main    # main branch로 이동
 13. git pull     # 충돌 방지를 위해 최신 상태로 업데이트
 14. git merge 브랜치-이름     # 브랜치에서 작업한 내용을 master branch에 병합
 15. git push    # Local repository -> Remote repository
